@@ -1,0 +1,14 @@
+C:\Users\alexa\OneDrive\Documentos\Console Projects\ConsoleApp14\bin\Debug\net9.0\ConsoleApp14.exe
+C:\Users\alexa\OneDrive\Documentos\Console Projects\ConsoleApp14\bin\Debug\net9.0\ConsoleApp14.deps.json
+C:\Users\alexa\OneDrive\Documentos\Console Projects\ConsoleApp14\bin\Debug\net9.0\ConsoleApp14.runtimeconfig.json
+C:\Users\alexa\OneDrive\Documentos\Console Projects\ConsoleApp14\bin\Debug\net9.0\ConsoleApp14.dll
+C:\Users\alexa\OneDrive\Documentos\Console Projects\ConsoleApp14\bin\Debug\net9.0\ConsoleApp14.pdb
+C:\Users\alexa\OneDrive\Documentos\Console Projects\ConsoleApp14\obj\Debug\net9.0\ConsoleApp14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Documentos\Console Projects\ConsoleApp14\obj\Debug\net9.0\ConsoleApp14.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Documentos\Console Projects\ConsoleApp14\obj\Debug\net9.0\ConsoleApp14.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Documentos\Console Projects\ConsoleApp14\obj\Debug\net9.0\ConsoleApp14.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Documentos\Console Projects\ConsoleApp14\obj\Debug\net9.0\ConsoleApp14.dll
+C:\Users\alexa\OneDrive\Documentos\Console Projects\ConsoleApp14\obj\Debug\net9.0\refint\ConsoleApp14.dll
+C:\Users\alexa\OneDrive\Documentos\Console Projects\ConsoleApp14\obj\Debug\net9.0\ConsoleApp14.pdb
+C:\Users\alexa\OneDrive\Documentos\Console Projects\ConsoleApp14\obj\Debug\net9.0\ConsoleApp14.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Documentos\Console Projects\ConsoleApp14\obj\Debug\net9.0\ref\ConsoleApp14.dll
